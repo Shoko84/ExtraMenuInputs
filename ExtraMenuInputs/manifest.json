@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "ExtraMenuInputs",
+  "name": "ExtraMenuInputs",
+  "author": "Shoko84",
+  "version": "1.0.0",
+  "description": "Navigate in the song selection thanks to your joystick or DPad!",
+  "gameVersion": "1.9.0",
+  "dependsOn": {
+
+  },
+  "features": []
+}
